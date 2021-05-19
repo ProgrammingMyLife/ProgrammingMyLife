@@ -8,7 +8,10 @@
 - 🥅 2022 Goal - Actually a good developer
 - ⚡ Fun fact - I do not work for anyone, I code just for fun.
 
-[![Raven's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammingMyLife&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Raven's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammingMyLife&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/ProgrammingMyLife/)
+
+[![Raven's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingMyLife&theme=dracula)](https://github.com/ProgrammingMyLife/)
+
 ## Connect with me:
 
 <a href="https://discord.gg/MwmnXNsjsj"> Discord Server </a>
