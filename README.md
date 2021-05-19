@@ -1,6 +1,6 @@
 ### Hi, I'm Anthony/Raven <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Your short description
+## About me
 - 🔭 I’m currently working on -  <a href="https://spawnegg.codes">spawnegg.codes</a>, my personal website
 - 🌱 I’m currently learning - Front end development
 - 👯 I’m looking to collaborate with - Any Front end or Flask developers
