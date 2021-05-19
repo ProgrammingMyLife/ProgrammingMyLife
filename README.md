@@ -9,7 +9,12 @@
 - ⚡ Fun fact - I do not work for anyone, I code just for fun.
 
 [![Raven's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammingMyLife&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/ProgrammingMyLife/)
-
+ 
+ 
+ Github Stats             |  Github Stats
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=ProgrammingMyLife&count_private=true&include_all_commits=true&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingMyLife&theme=dracula)
+ 
 [![Raven's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingMyLife&theme=dracula)](https://github.com/ProgrammingMyLife/)
 
 ## Connect with me:
