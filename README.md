@@ -12,7 +12,7 @@
  
  My Stats             |  Languages
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=ProgrammingMyLife&count_private=true&include_all_commits=true&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingMyLife&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=ProgrammingMyLife&count_private=true&include_all_commits=true&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingMyLife&theme=dracula&layout=compact&langs_count=8)
  
 
 
